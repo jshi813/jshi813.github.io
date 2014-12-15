@@ -1,3 +1,4 @@
-<div id="a" style="display: inline">jason@uwaterloo:</div><div id="b">~</div><div id="c">$</div>
-
-Hello, this is Jason Shi, Computer Science student at University of Waterloo.
+<span id="a">jason@uwaterloo</span>:<span id="b">~</span><span id="c">$</span> cat jason.txt<br/><br/>
+Hi, I'm Jason Shi.<p>3A Computer Science student at University of Waterloo.</p>
+<p>I am passionate about programming, and I love food & sports.</p>
+<p>You can find me here: <a href="mailto:j43shi@uwaterloo.ca">j43shi@uwaterloo.ca</a> <a href="http://www.besttechie.com">LinkedIn</a>.</p>
