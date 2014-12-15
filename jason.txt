@@ -1,1 +1,3 @@
-Hello, this is me.
+<div id="a" style="display: inline">jason@uwaterloo:</div><div id="b">~</div><div id="c">$</div>
+
+Hello, this is Jason Shi, Computer Science student at University of Waterloo.
