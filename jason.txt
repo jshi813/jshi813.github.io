@@ -1,4 +1,4 @@
 <span id="a">jason@uwaterloo</span>:<span id="b">~</span><span id="c">$</span> cat jason.txt<br/><br/>
-Hi, I'm Jason Shi.<p>3A Computer Science student at University of Waterloo.</p>
-<p>I am passionate about programming, and I love food & sports.</p>
-<p>You can find me here: <br><br> <a href="mailto:j43shi@uwaterloo.ca">j43shi@uwaterloo.ca</a> <br><br><a href="<a href="https://github.com/jshi813">GitHub</a><br><br> <a href="https://www.linkedin.com/profile/view?id=228639591&trk=nav_responsive_tab_profile">LinkedIn</a><br><br><a href="https://www.facebook.com/jason.shi.5621">Facebook</a>.</p>
+Hi, I'm Jason Shi.<p>3B Computer Science student at University of Waterloo.</p>
+<p>I love programming, problem solving and outdoor sports.</p>
+<p>You can find me here: <br><br> <a href="mailto:j43shi@uwaterloo.ca">j43shi@uwaterloo.ca</a> <br><br><a href="<a href="https://github.com/jshi813">GitHub</a><br><br> <a href="https://ca.linkedin.com/pub/jason-shi/64/6a2/6b3">LinkedIn</a><br><br><a href="https://www.facebook.com/jason.shi.5621">Facebook</a>.</p>
